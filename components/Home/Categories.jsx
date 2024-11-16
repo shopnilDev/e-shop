@@ -12,7 +12,7 @@ export default function Categories() {
 
   return (
     <section className="container mx-auto px-4 ">
-      <div className="pt-4 pb-14 border-y-2 ">
+      <div className="pt-4 pb-14 border-t border-b ">
         <div className="  mb-4">
           <div className="flex gap-2 items-center mb-2 ">
             <div className="bg-red-500 w-3 h-7 rounded"></div>
